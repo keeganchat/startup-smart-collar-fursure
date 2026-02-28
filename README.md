@@ -10,4 +10,4 @@ FurSure is a conceptual smart pet health collar startup developed as part of a u
 
 ## Files
 * fursure_pitch_deck.pdf - condensed shark tank-style pitch presentation
-* fursure_investor_deck.pdf — full investor deck with detailed financials, operations plan, and go-to-market strategy, etc.
+* fursure_investor_deck.pptx — full investor deck with detailed financials, operations plan, and go-to-market strategy, etc.
